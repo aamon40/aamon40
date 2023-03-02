@@ -1,5 +1,6 @@
-### Hello World 👋, I am Nyore Achoja
-
+- ### Hello World 👋, I am Nyore Achoja
+- 👀 I’m interested in building beautiful websites, soul music and astronomy.
+- 🌱 I’m looking to collaborate on projects that can help me develop!
 <!--
 **aamon40/aamon40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
