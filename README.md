@@ -1,4 +1,4 @@
-- ### Hello World 👋, I am Nyore Achoja
+### Hello World 👋, I am Nyore Achoja
 - 👀 I’m interested in building beautiful websites, soul music and astronomy.
 - 🌱 I’m looking to collaborate on projects that can help me develop!
 <!--
